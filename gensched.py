@@ -5,11 +5,11 @@ import datetime, sys
 '''Print out schedule.html page. Takes care of all the boilerplate so 
 I can rearrange things easily.'''
 
-start = datetime.date(2020,8,31)
-end = datetime.date(2020,12,17)
+start = datetime.date(2022,8,29)
+end = datetime.date(2022,12,16)
 lastassign = 12
-noclass = {datetime.date(2020,11,23): "Thanksgiving Break", 
-           datetime.date(2020,11,25): "Thanksgiving Break"}
+noclass = {datetime.date(2020,11,24): "Thanksgiving Break", 
+           datetime.date(2020,11,26): "Thanksgiving Break"}
 
 lectures = [
 ("Introduction/Linux Commandline Basics",[('intro','notes/intro2021.pdf'),'bash',('reference','notes/bash_cheatsheet.pdf')]),
