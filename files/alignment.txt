@@ -1,0 +1,1897 @@
+BLASTP 2.2.28+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: 601GTB6K01R
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           33,046,138 sequences; 11,529,279,854 total letters
+Query= gi|2781306|pdb|1YCR|A
+
+Length=109
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+pdb|4HBM|A  Chain A, Ordering Of The N Terminus Of Human Mdm2 ...    225   1e-73
+pdb|2LZG|A  Chain A, Nmr Structure Of Mdm2 (6-125) With Pip-1        225   1e-73
+pdb|2AXI|A  Chain A, Hdm2 In Complex With A Beta-hairpin             224   2e-73
+pdb|1YCR|A  Chain A                                                  224   2e-73
+gb|AAL13243.1|AF385323_1  MDM2 variant FB26 [Homo sapiens]           227   2e-73
+pdb|2M86|B  Chain B, Solution Structure Of Hdm2 With Engineere...    224   2e-73
+pdb|1T4F|M  Chain M, Structure Of Human Mdm2 In Complex With A...    224   2e-73
+pdb|3G03|A  Chain A, Structure Of Human Mdm2 In Complex With H...    223   6e-73
+gb|EAW97201.1|  Mdm2, transformed 3T3 cell double minute 2, p5...    226   8e-73
+pdb|3TU1|A  Chain A, Exhaustive Fluorine Scanning Towards Pote...    223   8e-73
+emb|CAD36959.1|  p53-binding protein [Homo sapiens]                  224   9e-73
+gb|AFM80538.1|  HDM2 transcript variant MYO-25 [Homo sapiens]        226   1e-72
+gb|ABT17086.1|  Mdm2 [Homo sapiens]                                  227   1e-72
+gb|ABT17084.1|  Mdm2 [Homo sapiens]                                  226   3e-72
+emb|CAD23251.1|  MDM2 isoform KB9 [Homo sapiens]                     226   3e-72
+gb|EAW97203.1|  Mdm2, transformed 3T3 cell double minute 2, p5...    226   4e-72
+pdb|4HFZ|A  Chain A, Crystal Structure Of An Mdm2/p53 Peptide ...    221   4e-72
+gb|AFM80539.1|  HDM2 transcript variant MYO-26 [Homo sapiens]        224   2e-71
+gb|AFM80540.1|  HDM2 transcript variant MYO-32 [Homo sapiens]        228   2e-71
+ref|NP_001138809.1|  E3 ubiquitin-protein ligase Mdm2 isoform ...    227   2e-70
+ref|XP_005571556.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    228   4e-70
+ref|NP_001253331.1|  E3 ubiquitin-protein ligase Mdm2 [Macaca ...    228   4e-70
+gb|AAI52391.1|  MDM2 protein [Homo sapiens] >gb|AAI52385.1| MD...    228   4e-70
+ref|XP_005268929.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    228   5e-70
+ref|NP_002383.2|  E3 ubiquitin-protein ligase Mdm2 isoform a [...    228   5e-70
+gb|AAP36607.1|  Homo sapiens Mdm2, transformed 3T3 cell double...    228   5e-70
+ref|XP_003259844.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    228   5e-70
+ref|XP_001155208.1|  PREDICTED: uncharacterized protein LOC742...    228   6e-70
+ref|NP_001124685.1|  E3 ubiquitin-protein ligase Mdm2 [Pongo a...    227   7e-70
+ref|XP_003797894.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    223   1e-68
+ref|XP_003926601.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    224   1e-68
+ref|XP_002752774.2|  PREDICTED: E3 ubiquitin-protein ligase Md...    224   2e-68
+pdb|1Z1M|A  Chain A, Nmr Structure Of Unliganded Mdm2                211   3e-68
+gb|EGV96011.1|  hypothetical protein I79_002682 [Cricetulus gr...    211   1e-63
+ref|XP_003497187.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    211   1e-63
+pdb|4JWR|A  Chain A, Co-crystal Structure Of Mdm2 With Inhibit...    197   6e-63
+pdb|1T4E|A  Chain A, Structure Of Human Mdm2 In Complex With A...    197   7e-63
+pdb|3LBL|A  Chain A, Structure Of Human Mdm2 Protein In Comple...    195   3e-62
+pdb|4JV7|A  Chain A, Co-crystal Structure Of Mdm2 With Inhibit...    195   3e-62
+pdb|4DIJ|A  Chain A, The Central Valine Concept Provides An En...    194   9e-62
+gb|AAL40178.1|  MDM2 protein [Homo sapiens]                          193   3e-61
+pdb|3LBK|A  Chain A, Structure Of Human Mdm2 Protein In Comple...    192   4e-61
+ref|XP_004281922.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    199   3e-59
+ref|XP_004319535.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    199   3e-59
+ref|XP_004890452.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    198   3e-59
+gb|EHB06628.1|  E3 ubiquitin-protein ligase Mdm2, partial [Het...    197   4e-59
+ref|XP_003582259.2|  PREDICTED: E3 ubiquitin-protein ligase Md...    191   5e-59
+ref|XP_004752513.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    199   5e-59
+gb|AAF67833.1|  Mdm2 [Canis lupus familiaris]                        198   8e-59
+ref|XP_004406037.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    198   9e-59
+ref|XP_005625507.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    198   9e-59
+dbj|BAB11975.1|  MDM2 [Canis lupus familiaris]                       198   9e-59
+ref|XP_004479250.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    198   9e-59
+sp|P56950.1|MDM2_CANFA  RecName: Full=E3 ubiquitin-protein lig...    198   1e-58
+ref|NP_001003103.1|  E3 ubiquitin-protein ligase Mdm2 [Canis l...    198   1e-58
+ref|XP_002918363.1|  PREDICTED: e3 ubiquitin-protein ligase Md...    198   1e-58
+ref|XP_004479249.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    198   1e-58
+gb|EFB23475.1|  hypothetical protein PANDA_006813 [Ailuropoda ...    197   1e-58
+ref|XP_005397538.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    197   1e-58
+sp|P56951.1|MDM2_HORSE  RecName: Full=E3 ubiquitin-protein lig...    197   2e-58
+gb|ELR46624.1|  E3 ubiquitin-protein ligase Mdm2, partial [Bos...    197   2e-58
+ref|XP_004650576.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    192   2e-58
+ref|XP_004632208.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    197   3e-58
+ref|XP_005397536.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    197   3e-58
+ref|XP_005664020.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    197   3e-58
+ref|XP_005397535.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    197   3e-58
+ref|XP_005680254.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    196   3e-58
+ref|NP_001009346.1|  E3 ubiquitin-protein ligase Mdm2 [Felis c...    196   3e-58
+ref|XP_004875095.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    196   4e-58
+ref|XP_003475979.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    196   4e-58
+ref|XP_005206519.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    196   5e-58
+ref|NP_001098773.1|  E3 ubiquitin-protein ligase Mdm2 [Sus scr...    196   8e-58
+ref|XP_004017965.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    196   8e-58
+ref|XP_004006527.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    196   9e-58
+ref|XP_005680253.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    195   1e-57
+ref|XP_003802551.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    194   2e-57
+ref|XP_004429449.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    194   3e-57
+ref|XP_004676573.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    193   4e-57
+sp|Q60524.1|MDM2_MESAU  RecName: Full=E3 ubiquitin-protein lig...    192   7e-57
+ref|XP_005611431.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    192   7e-57
+ref|NP_001092577.1|  E3 ubiquitin-protein ligase Mdm2 [Bos tau...    193   8e-57
+gb|EPQ01662.1|  E3 ubiquitin-protein ligase Mdm2 [Myotis brand...    193   8e-57
+ref|XP_005328782.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    191   2e-56
+pdb|3V3B|A  Chain A, Structure Of The Stapled P53 Peptide Boun...    180   2e-56
+ref|XP_005206518.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    192   2e-56
+ref|XP_005319560.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    191   3e-56
+ref|XP_005328781.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    191   4e-56
+ref|XP_003405637.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    191   4e-56
+gb|ELK27207.1|  E3 ubiquitin-protein ligase Mdm2 [Myotis davidii]    190   9e-56
+pdb|3JZS|A  Chain A, Human Mdm2 Liganded With A 12mer Peptide ...    178   9e-56
+ref|XP_001918055.2|  PREDICTED: E3 ubiquitin-protein ligase Md...    191   1e-55
+ref|XP_005611430.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    190   1e-55
+ref|XP_002711367.1|  PREDICTED: mouse double minute 2 homolog ...    189   1e-55
+ref|XP_004386486.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    189   3e-55
+pdb|3EQS|A  Chain A, Crystal Structure Of Human Mdm2 In Comple...    176   5e-55
+ref|XP_004700519.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    188   7e-55
+pdb|1RV1|A  Chain A, Crystal Structure Of Human Mdm2 With An I...    174   7e-54
+pdb|3VZV|A  Chain A, Crystal Structure Of Human Mdm2 With A Di...    174   8e-54
+gb|AAL40179.1|  MDM2 protein [Homo sapiens]                          182   2e-53
+ref|XP_004053589.1|  PREDICTED: E3 ubiquitin-protein ligase Md...    183   2e-53
+
+ALIGNMENTS
+>pdb|4HBM|A Chain A, Ordering Of The N Terminus Of Human Mdm2 By Small Molecule 
+Inhibitors
+ pdb|4HBM|B Chain B, Ordering Of The N Terminus Of Human Mdm2 By Small Molecule 
+Inhibitors
+ pdb|4HBM|C Chain C, Ordering Of The N Terminus Of Human Mdm2 By Small Molecule 
+Inhibitors
+ pdb|4HBM|D Chain D, Ordering Of The N Terminus Of Human Mdm2 By Small Molecule 
+Inhibitors
+ pdb|4HBM|E Chain E, Ordering Of The N Terminus Of Human Mdm2 By Small Molecule 
+Inhibitors
+ pdb|4HBM|F Chain F, Ordering Of The N Terminus Of Human Mdm2 By Small Molecule 
+Inhibitors
+ pdb|4HBM|G Chain G, Ordering Of The N Terminus Of Human Mdm2 By Small Molecule 
+Inhibitors
+ pdb|4HBM|H Chain H, Ordering Of The N Terminus Of Human Mdm2 By Small Molecule 
+Inhibitors
+Length=120
+
+ Score =   225 bits (573),  Expect = 1e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  12   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  71
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  72   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  120
+
+
+>pdb|2LZG|A Chain A, Nmr Structure Of Mdm2 (6-125) With Pip-1
+Length=125
+
+ Score =   225 bits (573),  Expect = 1e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>pdb|2AXI|A Chain A, Hdm2 In Complex With A Beta-hairpin
+Length=115
+
+ Score =   224 bits (572),  Expect = 2e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+
+
+>pdb|1YCR|A Chain A
+Length=109
+
+ Score =   224 bits (571),  Expect = 2e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+
+
+>gb|AAL13243.1|AF385323_1 MDM2 variant FB26 [Homo sapiens]
+Length=195
+
+ Score =   227 bits (579),  Expect = 2e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>pdb|2M86|B Chain B, Solution Structure Of Hdm2 With Engineered Cyclotide
+Length=129
+
+ Score =   224 bits (572),  Expect = 2e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  21   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  80
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  81   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  129
+
+
+>pdb|1T4F|M Chain M, Structure Of Human Mdm2 In Complex With An Optimized 
+P53 Peptide
+ pdb|2GV2|A Chain A, Mdm2 In Complex With An 8-Mer P53 Peptide Analogue
+ pdb|3JZR|A Chain A, Human Mdm2 Liganded With A 12mer Peptide Inhibitor (Pdi6w)
+Length=110
+
+ Score =   224 bits (571),  Expect = 2e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  2    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  61
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  62   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  110
+
+
+>pdb|3G03|A Chain A, Structure Of Human Mdm2 In Complex With High Affinity 
+Peptide
+ pdb|3G03|C Chain C, Structure Of Human Mdm2 In Complex With High Affinity 
+Peptide
+Length=109
+
+ Score =   223 bits (568),  Expect = 6e-73, Method: Compositional matrix adjust.
+ Identities = 108/108 (100%), Positives = 108/108 (100%), Gaps = 0/108 (0%)
+
+Query  2    QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  61
+            QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC
+Sbjct  2    QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  61
+
+Query  62   SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  62   SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+
+
+>gb|EAW97201.1| Mdm2, transformed 3T3 cell double minute 2, p53 binding protein 
+(mouse), isoform CRA_a [Homo sapiens]
+Length=197
+
+ Score =   226 bits (575),  Expect = 8e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  23   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  82
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  83   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  131
+
+
+>pdb|3TU1|A Chain A, Exhaustive Fluorine Scanning Towards Potent P53-Mdm2 
+Antagonist
+Length=108
+
+ Score =   223 bits (567),  Expect = 8e-73, Method: Compositional matrix adjust.
+ Identities = 108/108 (100%), Positives = 108/108 (100%), Gaps = 0/108 (0%)
+
+Query  2    QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  61
+            QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC
+Sbjct  1    QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  60
+
+Query  62   SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  61   SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  108
+
+
+>emb|CAD36959.1| p53-binding protein [Homo sapiens]
+Length=166
+
+ Score =   224 bits (572),  Expect = 9e-73, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>gb|AFM80538.1| HDM2 transcript variant MYO-25 [Homo sapiens]
+Length=219
+
+ Score =   226 bits (576),  Expect = 1e-72, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>gb|ABT17086.1| Mdm2 [Homo sapiens]
+Length=257
+
+ Score =   227 bits (579),  Expect = 1e-72, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>gb|ABT17084.1| Mdm2 [Homo sapiens]
+Length=256
+
+ Score =   226 bits (577),  Expect = 3e-72, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>emb|CAD23251.1| MDM2 isoform KB9 [Homo sapiens]
+Length=243
+
+ Score =   226 bits (576),  Expect = 3e-72, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>gb|EAW97203.1| Mdm2, transformed 3T3 cell double minute 2, p53 binding protein 
+(mouse), isoform CRA_c [Homo sapiens]
+Length=253
+
+ Score =   226 bits (575),  Expect = 4e-72, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  23   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  82
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  83   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  131
+
+
+>pdb|4HFZ|A Chain A, Crystal Structure Of An Mdm2/p53 Peptide Complex
+ pdb|4HFZ|C Chain C, Crystal Structure Of An Mdm2/p53 Peptide Complex
+Length=109
+
+ Score =   221 bits (562),  Expect = 4e-72, Method: Compositional matrix adjust.
+ Identities = 107/109 (98%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYD  QQHIVY
+Sbjct  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDAAQQHIVY  60
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+
+
+>gb|AFM80539.1| HDM2 transcript variant MYO-26 [Homo sapiens]
+Length=238
+
+ Score =   224 bits (570),  Expect = 2e-71, Method: Compositional matrix adjust.
+ Identities = 108/109 (99%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVFFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>gb|AFM80540.1| HDM2 transcript variant MYO-32 [Homo sapiens]
+Length=364
+
+ Score =   228 bits (580),  Expect = 2e-71, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>ref|NP_001138809.1| E3 ubiquitin-protein ligase Mdm2 isoform g [Homo sapiens]
+Length=444
+
+ Score =   227 bits (579),  Expect = 2e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>ref|XP_005571556.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Macaca 
+fascicularis]
+ ref|XP_005571557.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X3 [Macaca 
+fascicularis]
+ gb|EHH20950.1| hypothetical protein EGK_03911 [Macaca mulatta]
+ gb|EHH66477.1| hypothetical protein EGM_03480 [Macaca fascicularis]
+Length=491
+
+ Score =   228 bits (581),  Expect = 4e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>ref|NP_001253331.1| E3 ubiquitin-protein ligase Mdm2 [Macaca mulatta]
+ ref|XP_003906803.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform 1 [Papio 
+anubis]
+ ref|XP_005571555.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Macaca 
+fascicularis]
+Length=497
+
+ Score =   228 bits (581),  Expect = 4e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  23   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  82
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  83   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  131
+
+
+>gb|AAI52391.1| MDM2 protein [Homo sapiens]
+ gb|AAI52385.1| MDM2 protein [Homo sapiens]
+Length=490
+
+ Score =   228 bits (580),  Expect = 4e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>ref|XP_005268929.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Homo 
+sapiens]
+ sp|Q00987.1|MDM2_HUMAN RecName: Full=E3 ubiquitin-protein ligase Mdm2; AltName: Full=Double 
+minute 2 protein; Short=Hdm2; AltName: Full=Oncoprotein 
+Mdm2; AltName: Full=p53-binding protein Mdm2
+ gb|AAM78554.1|AF527840_1 Mdm2, transformed 3T3 cell double minute 2, p53 binding protein 
+[Homo sapiens]
+ emb|CAA78055.1| p53 associated [Homo sapiens]
+ gb|AAA60568.1| p53 associated [Homo sapiens]
+ gb|AAP35922.1| Mdm2, transformed 3T3 cell double minute 2, p53 binding protein 
+(mouse) [Homo sapiens]
+ gb|AAX42124.1| Mdm2 transformed 3T3 cell double minute 2 p53 binding protein 
+[synthetic construct]
+ gb|AAX42125.1| Mdm2 transformed 3T3 cell double minute 2 p53 binding protein 
+[synthetic construct]
+ dbj|BAF83030.1| unnamed protein product [Homo sapiens]
+ prf||1814460A p53-associated protein
+Length=491
+
+ Score =   228 bits (580),  Expect = 5e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>ref|NP_002383.2| E3 ubiquitin-protein ligase Mdm2 isoform a [Homo sapiens]
+ gb|EAW97214.1| Mdm2, transformed 3T3 cell double minute 2, p53 binding protein 
+(mouse), isoform CRA_n [Homo sapiens]
+ gb|AAI48523.1| Mdm2 p53 binding protein homolog (mouse) [synthetic construct]
+ gb|AAI53118.1| Mdm2 p53 binding protein homolog (mouse) [synthetic construct]
+ dbj|BAJ17752.1| Mdm2 p53 binding protein homolog [synthetic construct]
+Length=497
+
+ Score =   228 bits (580),  Expect = 5e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  23   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  82
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  83   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  131
+
+
+>gb|AAP36607.1| Homo sapiens Mdm2, transformed 3T3 cell double minute 2, p53 
+binding protein (mouse) [synthetic construct]
+ gb|AAX29588.1| transformed 3T3 cell double minute 2 p53 binding protein [synthetic 
+construct]
+Length=492
+
+ Score =   228 bits (580),  Expect = 5e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  125
+
+
+>ref|XP_003259844.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform 1 [Nomascus 
+leucogenys]
+Length=497
+
+ Score =   228 bits (580),  Expect = 5e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  23   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  82
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  83   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  131
+
+
+>ref|XP_001155208.1| PREDICTED: uncharacterized protein LOC742141 isoform 9 [Pan troglodytes]
+ ref|XP_003808765.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Pan paniscus]
+Length=497
+
+ Score =   228 bits (580),  Expect = 6e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  23   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  82
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  83   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  131
+
+
+>ref|NP_001124685.1| E3 ubiquitin-protein ligase Mdm2 [Pongo abelii]
+ emb|CAH89564.1| hypothetical protein [Pongo abelii]
+Length=497
+
+ Score =   227 bits (579),  Expect = 7e-70, Method: Compositional matrix adjust.
+ Identities = 109/109 (100%), Positives = 109/109 (100%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  23   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  82
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN
+Sbjct  83   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  131
+
+
+>ref|XP_003797894.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Otolemur garnettii]
+Length=453
+
+ Score =   223 bits (568),  Expect = 1e-68, Method: Compositional matrix adjust.
+ Identities = 107/109 (98%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  15   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  74
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE SDSGTSVSEN
+Sbjct  75   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQELSDSGTSVSEN  123
+
+
+>ref|XP_003926601.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform 1 [Saimiri 
+boliviensis boliviensis]
+Length=491
+
+ Score =   224 bits (570),  Expect = 1e-68, Method: Compositional matrix adjust.
+ Identities = 107/109 (98%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIM KRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMNKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSE+
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSES  125
+
+
+>ref|XP_002752774.2| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform 1 [Callithrix 
+jacchus]
+Length=491
+
+ Score =   224 bits (570),  Expect = 2e-68, Method: Compositional matrix adjust.
+ Identities = 107/109 (98%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIM KRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMNKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSE+
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSES  125
+
+
+>pdb|1Z1M|A Chain A, Nmr Structure Of Unliganded Mdm2
+Length=119
+
+ Score =   211 bits (538),  Expect = 3e-68, Method: Compositional matrix adjust.
+ Identities = 102/102 (100%), Positives = 102/102 (100%), Gaps = 0/102 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDS  102
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDS
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDS  118
+
+
+>gb|EGV96011.1| hypothetical protein I79_002682 [Cricetulus griseus]
+Length=476
+
+ Score =   211 bits (536),  Expect = 1e-63, Method: Compositional matrix adjust.
+ Identities = 100/109 (92%), Positives = 106/109 (97%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPL LKLLKSVGAQKDTYTMKE++FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  12   SQIPASEQETLVRPKPLFLKLLKSVGAQKDTYTMKEIIFYLGQYIMTKRLYDEKQQHIVY  71
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVK+HRKI+ MIYRNLVVV+QQ SSDSGTSVSE+
+Sbjct  72   CSNDLLGDLFGVPSFSVKDHRKIHIMIYRNLVVVSQQGSSDSGTSVSES  120
+
+
+>ref|XP_003497187.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2-like [Cricetulus 
+griseus]
+Length=481
+
+ Score =   211 bits (537),  Expect = 1e-63, Method: Compositional matrix adjust.
+ Identities = 100/109 (92%), Positives = 106/109 (97%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPL LKLLKSVGAQKDTYTMKE++FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLFLKLLKSVGAQKDTYTMKEIIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVK+HRKI+ MIYRNLVVV+QQ SSDSGTSVSE+
+Sbjct  77   CSNDLLGDLFGVPSFSVKDHRKIHIMIYRNLVVVSQQGSSDSGTSVSES  125
+
+
+>pdb|4JWR|A Chain A, Co-crystal Structure Of Mdm2 With Inhibitor {(2s,5r,6s)-6-(3- 
+Chlorophenyl)-5-(4-chlorophenyl)-4-[(2s)-1-hydroxybutan-2-yl]-3- 
+Oxomorpholin-2-yl}acetic Acid
+ pdb|4JWR|B Chain B, Co-crystal Structure Of Mdm2 With Inhibitor {(2s,5r,6s)-6-(3- 
+Chlorophenyl)-5-(4-chlorophenyl)-4-[(2s)-1-hydroxybutan-2-yl]-3- 
+Oxomorpholin-2-yl}acetic Acid
+ pdb|4JWR|C Chain C, Co-crystal Structure Of Mdm2 With Inhibitor {(2s,5r,6s)-6-(3- 
+Chlorophenyl)-5-(4-chlorophenyl)-4-[(2s)-1-hydroxybutan-2-yl]-3- 
+Oxomorpholin-2-yl}acetic Acid
+Length=95
+
+ Score =   197 bits (501),  Expect = 6e-63, Method: Compositional matrix adjust.
+ Identities = 95/95 (100%), Positives = 95/95 (100%), Gaps = 0/95 (0%)
+
+Query  1   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+           SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  1   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+
+Query  61  CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+           CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN
+Sbjct  61  CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+
+
+>pdb|1T4E|A Chain A, Structure Of Human Mdm2 In Complex With A Benzodiazepine 
+Inhibitor
+ pdb|1T4E|B Chain B, Structure Of Human Mdm2 In Complex With A Benzodiazepine 
+Inhibitor
+ pdb|3JZK|A Chain A, Crystal Structure Of Mdm2 With Chromenotriazolopyrimidine 
+1
+ pdb|4ERE|A Chain A, Crystal Structure Of Mdm2 (17-111) In Complex With Compound 
+23
+ pdb|4ERE|B Chain B, Crystal Structure Of Mdm2 (17-111) In Complex With Compound 
+23
+ pdb|4ERF|A Chain A, Crystal Structure Of Mdm2 (17-111) In Complex With Compound 
+29 (Am- 8553)
+ pdb|4ERF|C Chain C, Crystal Structure Of Mdm2 (17-111) In Complex With Compound 
+29 (Am- 8553)
+ pdb|4ERF|E Chain E, Crystal Structure Of Mdm2 (17-111) In Complex With Compound 
+29 (Am- 8553)
+Length=96
+
+ Score =   197 bits (500),  Expect = 7e-63, Method: Compositional matrix adjust.
+ Identities = 95/95 (100%), Positives = 95/95 (100%), Gaps = 0/95 (0%)
+
+Query  1   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+           SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  2   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  61
+
+Query  61  CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+           CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN
+Sbjct  62  CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  96
+
+
+>pdb|3LBL|A Chain A, Structure Of Human Mdm2 Protein In Complex With Mi-63-Analog
+ pdb|3LBL|C Chain C, Structure Of Human Mdm2 Protein In Complex With Mi-63-Analog
+ pdb|3LBL|E Chain E, Structure Of Human Mdm2 Protein In Complex With Mi-63-Analog
+ pdb|3TJ2|A Chain A, Structure Of A Novel Submicromolar Mdm2 Inhibitor
+ pdb|3TJ2|C Chain C, Structure Of A Novel Submicromolar Mdm2 Inhibitor
+Length=95
+
+ Score =   195 bits (496),  Expect = 3e-62, Method: Compositional matrix adjust.
+ Identities = 94/94 (100%), Positives = 94/94 (100%), Gaps = 0/94 (0%)
+
+Query  2   QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  61
+           QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC
+Sbjct  2   QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  61
+
+Query  62  SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+           SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN
+Sbjct  62  SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+
+
+>pdb|4JV7|A Chain A, Co-crystal Structure Of Mdm2 With Inhibitor (2s,5r,6s)-2-benzyl-5,6- 
+Bis(4-bromophenyl)-4-methylmorpholin-3-one
+ pdb|4JV9|A Chain A, Co-crystal Structure Of Mdm2 With Inhibitor (2s,5r,6s)-2-benzyl-5,6- 
+Bis(4-chlorophenyl)-4-methylmorpholin-3-one
+ pdb|4JVE|A Chain A, Co-crystal Structure Of Mdm2 With Inhibitor (2r,3e)-2-[(2s,3r,6s)-2,3- 
+Bis(4-chlorophenyl)-6-(4-fluorobenzyl)-5-oxomorpholin-4-yl]pent-3- 
+Enoic Acid
+ pdb|4JVR|A Chain A, Co-crystal Structure Of Mdm2 With Inhibitor (2's,3r,4's,5'r)-n-(2- 
+Aminoethyl)-6-chloro-4'-(3-chloro-2-fluorophenyl)-2'-(2,2- 
+Dimethylpropyl)-2-oxo-1,2-dihydrospiro[indole-3,3'-pyrrolidine]-5'- 
+Carboxamide
+ pdb|4JVR|C Chain C, Co-crystal Structure Of Mdm2 With Inhibitor (2's,3r,4's,5'r)-n-(2- 
+Aminoethyl)-6-chloro-4'-(3-chloro-2-fluorophenyl)-2'-(2,2- 
+Dimethylpropyl)-2-oxo-1,2-dihydrospiro[indole-3,3'-pyrrolidine]-5'- 
+Carboxamide
+ pdb|4JVR|E Chain E, Co-crystal Structure Of Mdm2 With Inhibitor (2's,3r,4's,5'r)-n-(2- 
+Aminoethyl)-6-chloro-4'-(3-chloro-2-fluorophenyl)-2'-(2,2- 
+Dimethylpropyl)-2-oxo-1,2-dihydrospiro[indole-3,3'-pyrrolidine]-5'- 
+Carboxamide
+Length=96
+
+ Score =   195 bits (496),  Expect = 3e-62, Method: Compositional matrix adjust.
+ Identities = 94/94 (100%), Positives = 94/94 (100%), Gaps = 0/94 (0%)
+
+Query  2   QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  61
+           QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC
+Sbjct  1   QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  60
+
+Query  62  SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+           SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN
+Sbjct  61  SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  94
+
+
+>pdb|4DIJ|A Chain A, The Central Valine Concept Provides An Entry In A New 
+Class Of Non Peptide Inhibitors Of The P53-Mdm2 Interaction
+ pdb|4DIJ|B Chain B, The Central Valine Concept Provides An Entry In A New 
+Class Of Non Peptide Inhibitors Of The P53-Mdm2 Interaction
+Length=96
+
+ Score =   194 bits (493),  Expect = 9e-62, Method: Compositional matrix adjust.
+ Identities = 94/95 (99%), Positives = 94/95 (99%), Gaps = 0/95 (0%)
+
+Query  1   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+           SQIPASEQETLVRPKP LLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  2   SQIPASEQETLVRPKPELLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  61
+
+Query  61  CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+           CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN
+Sbjct  62  CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  96
+
+
+>gb|AAL40178.1| MDM2 protein [Homo sapiens]
+Length=118
+
+ Score =   193 bits (491),  Expect = 3e-61, Method: Compositional matrix adjust.
+ Identities = 93/93 (100%), Positives = 93/93 (100%), Gaps = 0/93 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVV  93
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVV
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVV  109
+
+
+>pdb|3LBK|A Chain A, Structure Of Human Mdm2 Protein In Complex With A Small 
+Molecule Inhibitor
+Length=95
+
+ Score =   192 bits (489),  Expect = 4e-61, Method: Compositional matrix adjust.
+ Identities = 93/94 (99%), Positives = 93/94 (99%), Gaps = 0/94 (0%)
+
+Query  2   QIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  61
+           QIPASEQETLVRPKP LLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC
+Sbjct  2   QIPASEQETLVRPKPELLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYC  61
+
+Query  62  SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+           SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN
+Sbjct  62  SNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVN  95
+
+
+>ref|XP_004281922.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Orcinus orca]
+Length=491
+
+ Score =   199 bits (507),  Expect = 3e-59, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLV+VNQQE SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVIVNQQEPSDSGTSVSEN  125
+
+
+>ref|XP_004319535.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Tursiops truncatus]
+Length=491
+
+ Score =   199 bits (507),  Expect = 3e-59, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLV+VNQQE SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVIVNQQEPSDSGTSVSEN  125
+
+
+>ref|XP_004890452.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2, partial [Heterocephalus 
+glaber]
+Length=426
+
+ Score =   198 bits (503),  Expect = 3e-59, Method: Compositional matrix adjust.
+ Identities = 105/109 (96%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL VVNQQE SDSGTSVSE+
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLTVVNQQEPSDSGTSVSES  125
+
+
+>gb|EHB06628.1| E3 ubiquitin-protein ligase Mdm2, partial [Heterocephalus glaber]
+Length=432
+
+ Score =   197 bits (502),  Expect = 4e-59, Method: Compositional matrix adjust.
+ Identities = 105/109 (96%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  19   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  78
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL VVNQQE SDSGTSVSE+
+Sbjct  79   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLTVVNQQEPSDSGTSVSES  127
+
+
+>ref|XP_003582259.2| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Bos taurus]
+Length=226
+
+ Score =   191 bits (486),  Expect = 5e-59, Method: Compositional matrix adjust.
+ Identities = 105/110 (95%), Positives = 108/110 (98%), Gaps = 1/110 (1%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDT+TMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTFTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQ-ESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVV+QQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVSQQAEPSDSGTSVSEN  126
+
+
+>ref|XP_004752513.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Mustela 
+putorius furo]
+ ref|XP_004752514.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Mustela 
+putorius furo]
+ ref|XP_004797384.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Mustela 
+putorius furo]
+ ref|XP_004797385.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Mustela 
+putorius furo]
+Length=487
+
+ Score =   199 bits (505),  Expect = 5e-59, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQ+PASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQMPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ ESSDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHESSDSGTSVSEN  125
+
+
+>gb|AAF67833.1| Mdm2 [Canis lupus familiaris]
+Length=484
+
+ Score =   198 bits (504),  Expect = 8e-59, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  125
+
+
+>ref|XP_004406037.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform 1 [Odobenus 
+rosmarus divergens]
+Length=487
+
+ Score =   198 bits (503),  Expect = 9e-59, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  125
+
+
+>ref|XP_005625507.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Canis 
+lupus familiaris]
+Length=487
+
+ Score =   198 bits (503),  Expect = 9e-59, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  125
+
+
+>dbj|BAB11975.1| MDM2 [Canis lupus familiaris]
+Length=487
+
+ Score =   198 bits (503),  Expect = 9e-59, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  125
+
+
+>ref|XP_004479250.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform 2 [Dasypus 
+novemcinctus]
+Length=491
+
+ Score =   198 bits (503),  Expect = 9e-59, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMAKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQEPSDSGTSVSEN  125
+
+
+>sp|P56950.1|MDM2_CANFA RecName: Full=E3 ubiquitin-protein ligase Mdm2; AltName: Full=Double 
+minute 2 protein; Short=Cdm2; AltName: Full=p53-binding 
+protein Mdm2
+Length=487
+
+ Score =   198 bits (503),  Expect = 1e-58, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  125
+
+
+>ref|NP_001003103.1| E3 ubiquitin-protein ligase Mdm2 [Canis lupus familiaris]
+ gb|AAG42840.1|AF322416_1 MDM2 [Canis lupus familiaris]
+Length=487
+
+ Score =   198 bits (503),  Expect = 1e-58, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  125
+
+
+>ref|XP_002918363.1| PREDICTED: e3 ubiquitin-protein ligase Mdm2-like [Ailuropoda 
+melanoleuca]
+Length=487
+
+ Score =   198 bits (503),  Expect = 1e-58, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  125
+
+
+>ref|XP_004479249.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform 1 [Dasypus 
+novemcinctus]
+Length=512
+
+ Score =   198 bits (504),  Expect = 1e-58, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQHIVY
+Sbjct  38   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMAKRLYDEKQQHIVY  97
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE SDSGTSVSEN
+Sbjct  98   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQEPSDSGTSVSEN  146
+
+
+>gb|EFB23475.1| hypothetical protein PANDA_006813 [Ailuropoda melanoleuca]
+Length=489
+
+ Score =   197 bits (502),  Expect = 1e-58, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  19   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  78
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  79   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  127
+
+
+>ref|XP_005397538.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X4 [Chinchilla 
+lanigera]
+Length=454
+
+ Score =   197 bits (500),  Expect = 1e-58, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  27   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  86
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+V+NQQE SDSGTS SEN
+Sbjct  87   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVINQQEPSDSGTSGSEN  135
+
+
+>sp|P56951.1|MDM2_HORSE RecName: Full=E3 ubiquitin-protein ligase Mdm2; AltName: Full=Double 
+minute 2 protein; Short=Edm2; AltName: Full=p53-binding 
+protein Mdm2
+ gb|AAF28866.1|AF121140_1 double minute 2 protein [Equus caballus]
+Length=491
+
+ Score =   197 bits (502),  Expect = 2e-58, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVV+QQE SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVSQQEPSDSGTSVSEN  125
+
+
+>gb|ELR46624.1| E3 ubiquitin-protein ligase Mdm2, partial [Bos grunniens mutus]
+Length=503
+
+ Score =   197 bits (502),  Expect = 2e-58, Method: Compositional matrix adjust.
+ Identities = 106/109 (97%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  19   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  78
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVV+QQE SDSGTSVSEN
+Sbjct  79   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVSQQEPSDSGTSVSEN  127
+
+
+>ref|XP_004650576.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Jaculus jaculus]
+Length=302
+
+ Score =   192 bits (488),  Expect = 2e-58, Method: Compositional matrix adjust.
+ Identities = 101/109 (93%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLK+VGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKTVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            C+NDLLGDLFGVPSFSVKEHRKIYTMIY+NL+VVNQQE S+SGTS+SEN
+Sbjct  77   CANDLLGDLFGVPSFSVKEHRKIYTMIYKNLIVVNQQEPSNSGTSMSEN  125
+
+
+>ref|XP_004632208.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Octodon 
+degus]
+Length=491
+
+ Score =   197 bits (500),  Expect = 3e-58, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMAKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+V+NQQE SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVLNQQEPSDSGTSVSEN  125
+
+
+>ref|XP_005397536.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Chinchilla 
+lanigera]
+Length=491
+
+ Score =   197 bits (500),  Expect = 3e-58, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+V+NQQE SDSGTS SEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVINQQEPSDSGTSGSEN  125
+
+
+>ref|XP_005664020.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Sus scrofa]
+Length=491
+
+ Score =   197 bits (500),  Expect = 3e-58, Method: Compositional matrix adjust.
+ Identities = 105/109 (96%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+VVNQQE SDS TSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVVNQQEPSDSSTSVSEN  125
+
+
+>ref|XP_005397535.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Chinchilla 
+lanigera]
+Length=501
+
+ Score =   197 bits (500),  Expect = 3e-58, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  27   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  86
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+V+NQQE SDSGTS SEN
+Sbjct  87   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVINQQEPSDSGTSGSEN  135
+
+
+>ref|XP_005680254.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Capra 
+hircus]
+Length=444
+
+ Score =   196 bits (497),  Expect = 3e-58, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+VV+QQE SDSGTSVS+N
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVVSQQEPSDSGTSVSDN  125
+
+
+>ref|NP_001009346.1| E3 ubiquitin-protein ligase Mdm2 [Felis catus]
+ sp|Q7YRZ8.1|MDM2_FELCA RecName: Full=E3 ubiquitin-protein ligase Mdm2; AltName: Full=Double 
+minute 2 protein; AltName: Full=p53-binding protein 
+Mdm2
+ dbj|BAC78209.1| double minute 2 protein MDM2 [Felis catus]
+Length=491
+
+ Score =   196 bits (499),  Expect = 3e-58, Method: Compositional matrix adjust.
+ Identities = 105/109 (96%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQ+PASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQMPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQHEPSDSGTSVSEN  125
+
+
+>ref|XP_004875095.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Heterocephalus 
+glaber]
+ ref|XP_004875096.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Heterocephalus 
+glaber]
+Length=493
+
+ Score =   196 bits (499),  Expect = 4e-58, Method: Compositional matrix adjust.
+ Identities = 105/109 (96%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL VVNQQE SDSGTSVSE+
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLTVVNQQEPSDSGTSVSES  125
+
+
+>ref|XP_003475979.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Cavia porcellus]
+Length=491
+
+ Score =   196 bits (499),  Expect = 4e-58, Method: Compositional matrix adjust.
+ Identities = 105/109 (96%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+VVNQQE  DSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVVNQQEPLDSGTSVSEN  125
+
+
+>ref|XP_005206519.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Bos taurus]
+Length=491
+
+ Score =   196 bits (499),  Expect = 5e-58, Method: Compositional matrix adjust.
+ Identities = 105/109 (96%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDT+TMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTFTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVV+QQE SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVSQQEPSDSGTSVSEN  125
+
+
+>ref|NP_001098773.1| E3 ubiquitin-protein ligase Mdm2 [Sus scrofa]
+ gb|ABV09038.1| MDM2 [Sus scrofa]
+Length=491
+
+ Score =   196 bits (497),  Expect = 8e-58, Method: Compositional matrix adjust.
+ Identities = 105/109 (96%), Positives = 106/109 (97%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVTFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+VVNQQE SDS TSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVVNQQEPSDSSTSVSEN  125
+
+
+>ref|XP_004017965.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2-like [Ovis aries]
+Length=491
+
+ Score =   196 bits (497),  Expect = 8e-58, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+VV+QQE SDSGTSVS+N
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVVSQQEPSDSGTSVSDN  125
+
+
+>ref|XP_004006527.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Ovis aries]
+Length=491
+
+ Score =   196 bits (497),  Expect = 9e-58, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+VV+QQE SDSGTSVS+N
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVVSQQEPSDSGTSVSDN  125
+
+
+>ref|XP_005680253.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Capra 
+hircus]
+Length=491
+
+ Score =   195 bits (496),  Expect = 1e-57, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 108/109 (99%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNL+VV+QQE SDSGTSVS+N
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLIVVSQQEPSDSGTSVSDN  125
+
+
+>ref|XP_003802551.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2-like [Otolemur garnettii]
+Length=487
+
+ Score =   194 bits (494),  Expect = 2e-57, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQ+PASEQETLVRPKPLLLKLLKSVGAQKD YTMKEV++YLGQYIMTKRLYDEKQQHIVY
+Sbjct  15   SQVPASEQETLVRPKPLLLKLLKSVGAQKDIYTMKEVIYYLGQYIMTKRLYDEKQQHIVY  74
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSV EN
+Sbjct  75   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVREN  123
+
+
+>ref|XP_004429449.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform 1 [Ceratotherium 
+simum simum]
+Length=487
+
+ Score =   194 bits (493),  Expect = 3e-57, Method: Compositional matrix adjust.
+ Identities = 103/109 (94%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            +QIPA+EQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQH+VY
+Sbjct  17   AQIPAAEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMMKRLYDEKQQHMVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQEPSDSGTSVSEN  125
+
+
+>ref|XP_004676573.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Condylura cristata]
+Length=478
+
+ Score =   193 bits (491),  Expect = 4e-57, Method: Compositional matrix adjust.
+ Identities = 103/109 (94%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMAKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGV SFSVKEHRKIYTMIYRNL+VVNQQESSDSGT++SEN
+Sbjct  77   CSNDLLGDLFGVSSFSVKEHRKIYTMIYRNLIVVNQQESSDSGTAMSEN  125
+
+
+>sp|Q60524.1|MDM2_MESAU RecName: Full=E3 ubiquitin-protein ligase Mdm2; AltName: Full=Double 
+minute 2 protein; AltName: Full=Oncoprotein Mdm2; AltName: 
+Full=p53-binding protein Mdm2
+ gb|AAC52425.1| p53-associated protein, partial [Mesocricetus auratus]
+Length=466
+
+ Score =   192 bits (489),  Expect = 7e-57, Method: Compositional matrix adjust.
+ Identities = 94/109 (86%), Positives = 101/109 (93%), Gaps = 1/109 (1%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPL LKLLKSVGAQKDTYTMKE++    QYIMTKRLYDEKQQHIVY
+Sbjct  9    SQIPASEQETLVRPKPLFLKLLKSVGAQKDTYTMKEIILSW-QYIMTKRLYDEKQQHIVY  67
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVK+HRKI+ MIYRNLVVV+QQE+  SGTSVSE+
+Sbjct  68   CSNDLLGDLFGVPSFSVKDHRKIHIMIYRNLVVVSQQETLQSGTSVSES  116
+
+
+>ref|XP_005611431.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X3 [Equus 
+caballus]
+Length=462
+
+ Score =   192 bits (489),  Expect = 7e-57, Method: Composition-based stats.
+ Identities = 102/109 (94%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            +QIPA+EQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDE+QQH+VY
+Sbjct  35   AQIPAAEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDERQQHMVY  94
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  95   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQPEPSDSGTSVSEN  143
+
+
+>ref|NP_001092577.1| E3 ubiquitin-protein ligase Mdm2 [Bos taurus]
+ gb|AAI42265.1| MDM2 protein [Bos taurus]
+Length=492
+
+ Score =   193 bits (490),  Expect = 8e-57, Method: Compositional matrix adjust.
+ Identities = 106/110 (96%), Positives = 108/110 (98%), Gaps = 1/110 (1%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQ-ESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVV+QQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVSQQAEPSDSGTSVSEN  126
+
+
+>gb|EPQ01662.1| E3 ubiquitin-protein ligase Mdm2 [Myotis brandtii]
+Length=491
+
+ Score =   193 bits (490),  Expect = 8e-57, Method: Compositional matrix adjust.
+ Identities = 103/109 (94%), Positives = 106/109 (97%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMKKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIY+NLV+VNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYKNLVIVNQAEPSDSGTSVSEN  125
+
+
+>ref|XP_005328782.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Ictidomys 
+tridecemlineatus]
+Length=442
+
+ Score =   191 bits (485),  Expect = 2e-56, Method: Compositional matrix adjust.
+ Identities = 103/109 (94%), Positives = 105/109 (96%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIY+NLVVVNQQE SDS T V EN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYKNLVVVNQQEPSDSSTLVKEN  125
+
+
+>pdb|3V3B|A Chain A, Structure Of The Stapled P53 Peptide Bound To Mdm2
+ pdb|3V3B|B Chain B, Structure Of The Stapled P53 Peptide Bound To Mdm2
+Length=88
+
+ Score =   180 bits (457),  Expect = 2e-56, Method: Compositional matrix adjust.
+ Identities = 87/87 (100%), Positives = 87/87 (100%), Gaps = 0/87 (0%)
+
+Query  8   QETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLG  67
+           QETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLG
+Sbjct  2   QETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLG  61
+
+Query  68  DLFGVPSFSVKEHRKIYTMIYRNLVVV  94
+           DLFGVPSFSVKEHRKIYTMIYRNLVVV
+Sbjct  62  DLFGVPSFSVKEHRKIYTMIYRNLVVV  88
+
+
+>ref|XP_005206518.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Bos taurus]
+ tpg|DAA29805.1| TPA: MDM2-like protein [Bos taurus]
+Length=492
+
+ Score =   192 bits (487),  Expect = 2e-56, Method: Compositional matrix adjust.
+ Identities = 105/110 (95%), Positives = 108/110 (98%), Gaps = 1/110 (1%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDT+TMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTFTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQ-ESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVV+QQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVSQQAEPSDSGTSVSEN  126
+
+
+>ref|XP_005319560.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2-like, partial [Ictidomys 
+tridecemlineatus]
+Length=482
+
+ Score =   191 bits (486),  Expect = 3e-56, Method: Compositional matrix adjust.
+ Identities = 88/109 (81%), Positives = 98/109 (90%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQ PASE ETL RPKPL +KLLKSVGAQ D YT+K+++FYLGQYIMTKRLYDEK+QH+VY
+Sbjct  32   SQTPASEPETLYRPKPLFMKLLKSVGAQNDIYTIKDIIFYLGQYIMTKRLYDEKEQHMVY  91
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIY MIY+NLV+VN QE  DS TSVSE+
+Sbjct  92   CSNDLLGDLFGVPSFSVKEHRKIYAMIYKNLVIVNPQEPPDSSTSVSES  140
+
+
+>ref|XP_005328781.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Ictidomys 
+tridecemlineatus]
+Length=489
+
+ Score =   191 bits (485),  Expect = 4e-56, Method: Compositional matrix adjust.
+ Identities = 103/109 (94%), Positives = 105/109 (96%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIY+NLVVVNQQE SDS T V EN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYKNLVVVNQQEPSDSSTLVKEN  125
+
+
+>ref|XP_003405637.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2-like [Loxodonta africana]
+Length=492
+
+ Score =   191 bits (485),  Expect = 4e-56, Method: Compositional matrix adjust.
+ Identities = 102/109 (94%), Positives = 105/109 (96%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQH+VY
+Sbjct  19   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMAKRLYDEKQQHMVY  78
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFG PSFSVK+HRKIYTMIYRNLVVVNQQE  DSGTSVSEN
+Sbjct  79   CSNDLLGDLFGEPSFSVKDHRKIYTMIYRNLVVVNQQEPLDSGTSVSEN  127
+
+
+>gb|ELK27207.1| E3 ubiquitin-protein ligase Mdm2 [Myotis davidii]
+Length=491
+
+ Score =   190 bits (483),  Expect = 9e-56, Method: Compositional matrix adjust.
+ Identities = 102/109 (94%), Positives = 106/109 (97%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLV+PKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVKPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMKKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIY+NLV+VNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYKNLVIVNQAEPSDSGTSVSEN  125
+
+
+>pdb|3JZS|A Chain A, Human Mdm2 Liganded With A 12mer Peptide Inhibitor (Pdiq)
+Length=86
+
+ Score =   178 bits (452),  Expect = 9e-56, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  8   QETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLG  67
+           QETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLG
+Sbjct  1   QETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLG  60
+
+Query  68  DLFGVPSFSVKEHRKIYTMIYRNLVV  93
+           DLFGVPSFSVKEHRKIYTMIYRNLVV
+Sbjct  61  DLFGVPSFSVKEHRKIYTMIYRNLVV  86
+
+
+>ref|XP_001918055.2| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Equus 
+caballus]
+Length=509
+
+ Score =   191 bits (484),  Expect = 1e-55, Method: Composition-based stats.
+ Identities = 102/109 (94%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            +QIPA+EQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDE+QQH+VY
+Sbjct  35   AQIPAAEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDERQQHMVY  94
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  95   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQPEPSDSGTSVSEN  143
+
+
+>ref|XP_005611430.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X2 [Equus 
+caballus]
+Length=491
+
+ Score =   190 bits (482),  Expect = 1e-55, Method: Composition-based stats.
+ Identities = 102/109 (94%), Positives = 107/109 (98%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            +QIPA+EQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDE+QQH+VY
+Sbjct  17   AQIPAAEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDERQQHMVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQ E SDSGTSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQPEPSDSGTSVSEN  125
+
+
+>ref|XP_002711367.1| PREDICTED: mouse double minute 2 homolog [Oryctolagus cuniculus]
+Length=487
+
+ Score =   189 bits (481),  Expect = 1e-55, Method: Compositional matrix adjust.
+ Identities = 104/109 (95%), Positives = 105/109 (96%), Gaps = 3/109 (3%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQ   DS TSVSEN
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQ---DSSTSVSEN  122
+
+
+>ref|XP_004386486.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Trichechus manatus 
+latirostris]
+Length=498
+
+ Score =   189 bits (480),  Expect = 3e-55, Method: Compositional matrix adjust.
+ Identities = 101/109 (93%), Positives = 105/109 (96%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQH+VY
+Sbjct  25   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMAKRLYDEKQQHMVY  84
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFG PSFSVK+HRKIYTMIYRNLVVVNQQE  +SGTSVSEN
+Sbjct  85   CSNDLLGDLFGEPSFSVKDHRKIYTMIYRNLVVVNQQEPLNSGTSVSEN  133
+
+
+>pdb|3EQS|A Chain A, Crystal Structure Of Human Mdm2 In Complex With A 12-Mer 
+Peptide Inhibitor
+ pdb|3IUX|A Chain A, Crystal Structure Of Human Mdm2 In Complex With A Potent 
+Miniature Protein Inhibitor (18-Residues)
+ pdb|3IUX|C Chain C, Crystal Structure Of Human Mdm2 In Complex With A Potent 
+Miniature Protein Inhibitor (18-Residues)
+ pdb|3LNJ|A Chain A, Crystal Structure Of Human Mdm2 In Complex With D-Peptide 
+Inhibitor (Dpmi-Alpha)
+ pdb|3LNJ|C Chain C, Crystal Structure Of Human Mdm2 In Complex With D-Peptide 
+Inhibitor (Dpmi-Alpha)
+ pdb|3LNJ|E Chain E, Crystal Structure Of Human Mdm2 In Complex With D-Peptide 
+Inhibitor (Dpmi-Alpha)
+ pdb|3LNZ|A Chain A, Crystal Structure Of Human Mdm2 With A 12-Mer Peptide 
+Inhibitor Pmi (N8a Mutant)
+ pdb|3LNZ|C Chain C, Crystal Structure Of Human Mdm2 With A 12-Mer Peptide 
+Inhibitor Pmi (N8a Mutant)
+ pdb|3LNZ|E Chain E, Crystal Structure Of Human Mdm2 With A 12-Mer Peptide 
+Inhibitor Pmi (N8a Mutant)
+ pdb|3LNZ|G Chain G, Crystal Structure Of Human Mdm2 With A 12-Mer Peptide 
+Inhibitor Pmi (N8a Mutant)
+ pdb|3LNZ|I Chain I, Crystal Structure Of Human Mdm2 With A 12-Mer Peptide 
+Inhibitor Pmi (N8a Mutant)
+ pdb|3LNZ|K Chain K, Crystal Structure Of Human Mdm2 With A 12-Mer Peptide 
+Inhibitor Pmi (N8a Mutant)
+ pdb|3LNZ|M Chain M, Crystal Structure Of Human Mdm2 With A 12-Mer Peptide 
+Inhibitor Pmi (N8a Mutant)
+ pdb|3LNZ|O Chain O, Crystal Structure Of Human Mdm2 With A 12-Mer Peptide 
+Inhibitor Pmi (N8a Mutant)
+ pdb|3IWY|A Chain A, Crystal Structure Of Human Mdm2 Complexed With D-peptide 
+(12 Residues)
+ pdb|3IWY|C Chain C, Crystal Structure Of Human Mdm2 Complexed With D-peptide 
+(12 Residues)
+ pdb|3TPX|A Chain A, Crystal Structure Of Human Mdm2 In Complex With A Trifluoromethylated 
+D-peptide Inhibitor
+ pdb|3TPX|C Chain C, Crystal Structure Of Human Mdm2 In Complex With A Trifluoromethylated 
+D-peptide Inhibitor
+ pdb|3TPX|E Chain E, Crystal Structure Of Human Mdm2 In Complex With A Trifluoromethylated 
+D-peptide Inhibitor
+Length=85
+
+ Score =   176 bits (447),  Expect = 5e-55, Method: Compositional matrix adjust.
+ Identities = 85/85 (100%), Positives = 85/85 (100%), Gaps = 0/85 (0%)
+
+Query  9   ETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD  68
+           ETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD
+Sbjct  1   ETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD  60
+
+Query  69  LFGVPSFSVKEHRKIYTMIYRNLVV  93
+           LFGVPSFSVKEHRKIYTMIYRNLVV
+Sbjct  61  LFGVPSFSVKEHRKIYTMIYRNLVV  85
+
+
+>ref|XP_004700519.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 isoform X1 [Echinops 
+telfairi]
+Length=493
+
+ Score =   188 bits (477),  Expect = 7e-55, Method: Compositional matrix adjust.
+ Identities = 100/109 (92%), Positives = 104/109 (95%), Gaps = 0/109 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEV+FYLGQYIM KRLYDEKQQH+VY
+Sbjct  20   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVIFYLGQYIMAKRLYDEKQQHMVY  79
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSEN  109
+            CSNDLLGDLFG PSFSVK+HRKIYTMIYRNLV+VNQQE  DS TSVSEN
+Sbjct  80   CSNDLLGDLFGEPSFSVKDHRKIYTMIYRNLVIVNQQEPLDSATSVSEN  128
+
+
+>pdb|1RV1|A Chain A, Crystal Structure Of Human Mdm2 With An Imidazoline 
+Inhibitor
+ pdb|1RV1|B Chain B, Crystal Structure Of Human Mdm2 With An Imidazoline 
+Inhibitor
+ pdb|1RV1|C Chain C, Crystal Structure Of Human Mdm2 With An Imidazoline 
+Inhibitor
+ pdb|3VBG|A Chain A, Structure Of Hdm2 With Dimer Inducing Indolyl Hydantoin 
+Ro-2443
+ pdb|3VBG|B Chain B, Structure Of Hdm2 With Dimer Inducing Indolyl Hydantoin 
+Ro-2443
+ pdb|3VBG|C Chain C, Structure Of Hdm2 With Dimer Inducing Indolyl Hydantoin 
+Ro-2443
+ pdb|3VBG|D Chain D, Structure Of Hdm2 With Dimer Inducing Indolyl Hydantoin 
+Ro-2443
+Length=85
+
+ Score =   174 bits (440),  Expect = 7e-54, Method: Compositional matrix adjust.
+ Identities = 84/85 (99%), Positives = 84/85 (99%), Gaps = 0/85 (0%)
+
+Query  9   ETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD  68
+           ETLVRPKP LLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD
+Sbjct  1   ETLVRPKPELLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD  60
+
+Query  69  LFGVPSFSVKEHRKIYTMIYRNLVV  93
+           LFGVPSFSVKEHRKIYTMIYRNLVV
+Sbjct  61  LFGVPSFSVKEHRKIYTMIYRNLVV  85
+
+
+>pdb|3VZV|A Chain A, Crystal Structure Of Human Mdm2 With A Dihydroimidazothiazole 
+Inhibitor
+ pdb|3VZV|B Chain B, Crystal Structure Of Human Mdm2 With A Dihydroimidazothiazole 
+Inhibitor
+ pdb|3W69|A Chain A, Crystal Structure Of Human Mdm2 With A Dihydroimidazothiazole 
+Inhibitor
+ pdb|3W69|B Chain B, Crystal Structure Of Human Mdm2 With A Dihydroimidazothiazole 
+Inhibitor
+Length=87
+
+ Score =   174 bits (440),  Expect = 8e-54, Method: Compositional matrix adjust.
+ Identities = 84/85 (99%), Positives = 84/85 (99%), Gaps = 0/85 (0%)
+
+Query  9   ETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD  68
+           ETLVRPKP LLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD
+Sbjct  3   ETLVRPKPELLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGD  62
+
+Query  69  LFGVPSFSVKEHRKIYTMIYRNLVV  93
+           LFGVPSFSVKEHRKIYTMIYRNLVV
+Sbjct  63  LFGVPSFSVKEHRKIYTMIYRNLVV  87
+
+
+>gb|AAL40179.1| MDM2 protein [Homo sapiens]
+Length=436
+
+ Score =   182 bits (463),  Expect = 2e-53, Method: Compositional matrix adjust.
+ Identities = 98/98 (100%), Positives = 98/98 (100%), Gaps = 0/98 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  17   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  76
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE  98
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE
+Sbjct  77   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE  114
+
+
+>ref|XP_004053589.1| PREDICTED: E3 ubiquitin-protein ligase Mdm2 [Gorilla gorilla 
+gorilla]
+Length=442
+
+ Score =   183 bits (464),  Expect = 2e-53, Method: Compositional matrix adjust.
+ Identities = 98/98 (100%), Positives = 98/98 (100%), Gaps = 0/98 (0%)
+
+Query  1    SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  60
+            SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY
+Sbjct  23   SQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVY  82
+
+Query  61   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE  98
+            CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE
+Sbjct  83   CSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQE  120
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Oct 16, 2013  4:39 PM
+  Number of letters in database: 11,529,279,854
+  Number of sequences in database:  33,046,138
+
+Lambda      K        H
+   0.316    0.132    0.364 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 33046138
+Number of Hits to DB: 219051815
+Number of extensions: 7801452
+Number of successful extensions: 15155
+Number of sequences better than 100: 32
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 15151
+Number of HSP's successfully gapped: 32
+Length of query: 109
+Length of database: 11529279854
+Length adjustment: 77
+Effective length of query: 32
+Effective length of database: 8984727228
+Effective search space: 287511271296
+Effective search space used: 287511271296
+T: 11
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 70 (31.6 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+
+
