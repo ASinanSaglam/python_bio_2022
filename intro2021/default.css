@@ -1,0 +1,80 @@
+body {
+    margin: 1em;
+    padding: 0px;
+    background-color: #FFFFFF;
+}
+
+
+body, th, td, input, textarea, select {
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: .25em;
+    color: navy;
+    font-size: 2em;   
+}
+
+h2 {
+	margin: 0;
+	font-size 1.5em;
+	color: #330099;
+	margin-top: 1em;
+}
+
+h3 {
+    margin :0;
+    color: #5C5C5C;
+    font-size: 1.1em;
+}
+
+.main {
+    margin-top: 1em;
+    width: 600pt;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.R {
+	background-color: #eeFFFF; 
+}
+
+
+
+.B {
+    background-color: white;
+    font-weight: bold;
+}
+
+.endweek {
+    border-bottom: 2px solid #000;
+}
+
+.A {
+	background-color: #FFFFCC;
+	font-style: italic;
+}
+
+
+.L {
+	background-color: #ddeeff;
+}
+
+td { padding: 3px; }
+
+.code{background:#F8F8FF; border:black dashed 1px; padding:6px}​
+td div.comp { margin-top: -0.6ex; margin-bottom: -1ex;}
+td div.comb { margin-top: -0.6ex; margin-bottom: -.6ex;}
+td div.norm {line-height:normal;}
+td div.hrcomp { line-height: 0.9; margin-top: -0.8ex; margin-bottom: -1ex;}
+td.sqrt {border-top:2 solid black;
+border-left:2 solid black;
+border-bottom:none;
+border-right:none;}
+table.sqrt {border-top:2 solid black;
+border-left:2 solid black;
+border-bottom:none;
+border-right:none;}
