@@ -8,8 +8,7 @@ I can rearrange things easily.'''
 start = datetime.date(2022,8,30)
 end = datetime.date(2022,12,15)
 lastassign = 12
-noclass = {datetime.date(2020,11,22): "Thanksgiving Break", 
-           datetime.date(2020,11,24): "Thanksgiving Break"}
+noclass = {datetime.date(2022,11,24): "Thanksgiving Break"}
 
 lectures = [
 ("Introduction/Linux Commandline Basics",[('intro','notes/intro2021.pdf'),'bash',('reference','notes/bash_cheatsheet.pdf')]),
@@ -68,11 +67,13 @@ print ('''
 def linkstr(links):
     '''given list of link information return html string'''
     ret = ''
+    ret += "<!--"
     for l in links:
         if type(l) == str: #assume slides
             ret += '<a href="notes/%s.slides.html">slides</a>&nbsp;' % l
         else: # assume typle of name,link
             ret += ' <a href="%s">%s</a>&nbsp;' % (l[1],l[0])
+    ret += "-->"
     return ret
 
 day = start
